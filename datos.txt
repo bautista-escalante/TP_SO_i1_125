@@ -1,4 +1,6 @@
-
+juan manuel portela
+192.168.0.1
+22:56 9/11/2023
 Leon Rodriguez 
 Dirección IPv4. . . . . . . . . . . . . . : 192.168.117.1
 jueves, 9 de noviembre de 2023 21:39:56
